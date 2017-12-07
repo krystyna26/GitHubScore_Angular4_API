@@ -1,0 +1,10 @@
+.score {
+    display: inline-block;
+    margin: 15px;
+}
+
+.score2 {
+    display: inline-block;
+    margin: 15px;
+    vertical-align: top;
+}
